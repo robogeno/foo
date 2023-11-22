@@ -6,7 +6,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of foo is to …
+The goal of foo is to showcase how to create a simple R package
 
 ## Installation
 
